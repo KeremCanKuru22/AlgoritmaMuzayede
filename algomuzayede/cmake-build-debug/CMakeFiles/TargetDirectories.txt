@@ -1,0 +1,3 @@
+C:/Users/Kerem Can Kuru/CLionProjects/algomuzayede/cmake-build-debug/CMakeFiles/algomuzayede.dir
+C:/Users/Kerem Can Kuru/CLionProjects/algomuzayede/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kerem Can Kuru/CLionProjects/algomuzayede/cmake-build-debug/CMakeFiles/rebuild_cache.dir
